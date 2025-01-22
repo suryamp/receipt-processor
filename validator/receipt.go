@@ -4,7 +4,7 @@ import (
     "fmt"
     "regexp"
     "time"
-    "github.com/yourusername/receipt-processor/models"
+    "github.com/suryamp/receipt-processor/models"
 )
 
 // Modified regex from api.yml
